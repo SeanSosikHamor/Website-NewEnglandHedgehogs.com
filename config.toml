@@ -1,3 +1,23 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://newenglandhedgehogs.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'New England Hedgehogs'
+
+# Custom Settings
+
+enableGitInfo = true
+
+# Novela settings
+theme = "hugo-theme-novela"
+
+paginate = 6
+
+[social]
+twitter = "https://twitter.com/HamorHollow"
+instagram = "https://www.instagram.com/ChippokeTheTravelingHedgehog/"
+youtube = "https://www.youtube.com/user/HamorHollow"
+facebook = "https://www.facebook.com/HamorHollow/"
+
+[taxonomies]
+author = "authors"
+
+# Inline image dimensions: 1888x855
