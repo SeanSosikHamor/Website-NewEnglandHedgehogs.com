@@ -20,3 +20,7 @@ Many thanks to the following folks who have allowed us to use their cute photos 
 ### Public Domain (CC0) License
 
 - [Hedgehog SVG Vector 34 (212050) from SVG Repo](https://www.svgrepo.com/svg/212050/hedgehog)
+
+## Website Theme
+
+- [Hugo Novela by Forestry](https://github.com/forestryio/hugo-theme-novela)
