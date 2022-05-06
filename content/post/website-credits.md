@@ -13,7 +13,7 @@ authors:
 Many thanks to the following folks who have allowed us to use their cute photos and beautiful graphics! 
 
 - [Hamor Hollow Hedgehogs — USDA-licensed hedgehog breeder located in Southern New Hampshire](https://www.hamorhollow.com/)
-- [Hamor Photography — Lifestyle, event, urban, and tech photography in Southern New Hampshire](https://hamor.com/) 
+- [Hamor Photography — Lifestyle, event, urban, and tech photography in Southern New Hampshire](https://hamor.com/)
 
 ## Stock Images
 

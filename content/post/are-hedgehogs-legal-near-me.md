@@ -2,13 +2,13 @@
 title: "Are Hedgehogs Legal Near Me?"
 date: 2019-04-08T22:45:33-04:00
 hero: /images/20200529-174251-Hamor-Hollow-Socially-Distant-Open-House-and-Pickups-0506-IG.jpg
-excerpt: Hedgehogs are legal everywhere in New England! Other states may not be so lucky…
+excerpt: If you're reading this from New England, then you're all set, because hedgehogs are legal everywhere in New England. Unfortunately, other regions aren't so lucky, and some states have it out for these lovable little prickleballs!
 draft: false
 authors:
   - Hedgehogs of New England
 ---
 
-## Are Hedgehogs Legal Near Me?
+## How Do I Know if Hedgehogs Are Legal?
 
 If you're reading this from New England, then you're all set, because hedgehogs are legal everywhere in New England. Unfortunately, other regions aren't so lucky, and some states have it out for these lovable little prickleballs!
 
