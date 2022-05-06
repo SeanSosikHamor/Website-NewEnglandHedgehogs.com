@@ -5,7 +5,7 @@ hero: /images/20040407-010021-HAH-Hedgehog_Babies-IG.jpg
 excerpt: The unfortunate truth is that all animals — no matter how cute or friendly — can bite. But hedgehogs are not naturally aggressive, and usually don't bite unless provoked. Even then, they're more likely to just roll up into a ball, and huff and puff in an attempt to sound tough.
 draft: false
 authors:
-  - Hedgehogs of New England
+  - New England Hedgehogs
 ---
 
 ## OM NOM NOM! 

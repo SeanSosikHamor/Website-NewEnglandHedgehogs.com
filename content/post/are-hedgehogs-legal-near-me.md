@@ -5,7 +5,7 @@ hero: /images/20200529-174251-Hamor-Hollow-Socially-Distant-Open-House-and-Picku
 excerpt: If you're reading this from New England, then you're all set, because hedgehogs are legal everywhere in New England. Unfortunately, other regions aren't so lucky, and some states have it out for these lovable little prickleballs!
 draft: false
 authors:
-  - Hedgehogs of New England
+  - New England Hedgehogs
 ---
 
 ## How Do I Know if Hedgehogs Are Legal?

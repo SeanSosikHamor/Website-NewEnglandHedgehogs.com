@@ -5,7 +5,7 @@ hero: /images/20210118-211309-Hamor_Hollow_Herd-3452-IG.jpg
 excerpt: Hedgehogs aren't difficult to take care of. They're just…different. Their prickly quills make seem daunting but, the more you handle and care for them, the friendlier they get!
 draft: false
 authors:
-  - Hedgehogs of New England
+  - New England Hedgehogs
 ---
 
 ## Are Hedgehogs Difficult To Take Care Of? 

@@ -5,7 +5,7 @@ hero: /images/20210207-152556-Hamor_Hollow_Baby_Hedgies-3883-IG.jpg
 excerpt: Many thanks to the following folks who have allowed us to use their cute photos and beautiful graphics!
 draft: false
 authors:
-  - Hedgehogs of New England
+  - New England Hedgehogs
 ---
 
 ## Photography
