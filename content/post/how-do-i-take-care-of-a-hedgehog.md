@@ -14,7 +14,7 @@ Hedgehogs aren't difficult to take care of. They're just…different. Their pric
 
 ## What Should I Expect From My Hedgehog?
 
-When hedgehogs first come home from their breeder, they may seem nervous, or hide a lot. This is perfectly normal! Many hedgehog breeders have guides explaining [what to expect from your new hedgehog companion](https://www.hamorhollow.com/articles/you-and-your-new-hedgehog-heading-home-and-the-first-two-weeks).  
+When hedgehogs first come home from their breeder, they may seem nervous, or hide a lot. This is perfectly normal! Many hedgehog breeders have guides explaining [what to expect from your new hedgehog companion](https://www.hamorhollow.com/articles/you-and-your-new-hedgehog-heading-home-and-the-first-two-weeks):
 
 - [You and Your New Hedgehog — Heading Home and the First Two Weeks](https://www.hamorhollow.com/articles/you-and-your-new-hedgehog-heading-home-and-the-first-two-weeks)
 
